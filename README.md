@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChyenGCY
+- 👋 Hi, I’m @Chenyu Gu
 - 👀 I’m interested in contemporary art.
 - 🌱 I’m currently learning python & C++.
 - 💞️ I’m looking to collaborate on programming.
